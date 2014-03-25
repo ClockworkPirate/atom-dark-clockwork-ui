@@ -1,3 +1,9 @@
+I'm not sure if I'm allowed to change this or not, so I left in GitHub's
+original license text. I don't much care what anyone does with this (I bet this
+file never gets read again!), though I'd love to chat about it if you drop
+me a line :D
+
+
 Copyright (c) 2014 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
