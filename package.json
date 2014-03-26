@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "Based on the default dark theme, but with flattened interface elements.",
   "license": "MIT",
-  "repository": "https://github.com/clockworkpirate/atom-dark-ui",
+  "repository": "https://github.com/clockworkpirate/atom-dark-clockwork-ui",
   "engines": {
     "atom": ">0.40.0"
   }
